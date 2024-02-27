@@ -1,0 +1,3 @@
+Aplicação de modelos de Machine Learning em dados, gratuitos e pelo gov.br, de infração no estado do DF. Dados como infração, codigo de infração, data da infração, horario da infração, natureza da infração, tipo do condutor, tipo do veiculo, local, KM, complemento, referencia, longitude e latitude. 
+No intuito de treinar modelos de ML supervisionado, classificando as caracteristicas de locais e seus niveis de risco de infrações.
+Utilizando uma interface gráfica WEB, pela biblioteca STREMLIT.
